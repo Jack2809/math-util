@@ -1,4 +1,5 @@
 # Welcome to Math Utility repository
+![Practice CI | © 2020 by Jack](https://github.com/Jack2809/math-util/workflows/Practice%20CI%20%7C%20%C2%A9%202020%20by%20Jack/badge.svg)
 ## This repository contains a Java Project to simulate some basic math methods e.g 
 getFactorial(), sqrt(), aka Math class in JDK
 
