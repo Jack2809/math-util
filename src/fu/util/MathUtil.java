@@ -40,6 +40,8 @@ public class MathUtil {
         
         //expected: ném ra ngoại lệ IllegalArgumentException nếu nếu giai thừa -5
         System.out.println("-5!= "+MathUtil.getFactorial(-5));
+        
+        System.out.println("CI for today");
     }
     
     // code viết ra thif Developer phải test trước
