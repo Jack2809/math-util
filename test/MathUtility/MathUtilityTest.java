@@ -30,8 +30,10 @@ public class MathUtilityTest {
            assertEquals(120,MathUtil.getFactorial(5));
            assertEquals(24,MathUtil.getFactorial(4));
            assertEquals(6,MathUtil.getFactorial(3));
-           assertEquals(10,MathUtil.getFactorial(1));
+           assertEquals(1,MathUtil.getFactorial(1));
            //tui muốn check có đúng là 5!=120 hay ko nếu có là xanh nếu không là đỏ 
+           
+           //tui muốn thấy xanh trên Github,
         }
 }
 
